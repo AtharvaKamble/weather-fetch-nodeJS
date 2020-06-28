@@ -1,3 +1,5 @@
+//Server-side javascript code
+
 const path = require('path')
 const express = require('express')
 const hbs = require('hbs')
